@@ -1,0 +1,10 @@
+{
+    "program": "turbofirst.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpDt1C95evsi9H6mDGYroFsPX",
+        "address": "aleo1ekz7z683x75ngflk8l5wlytxr30w7gpqmsarly"
+    },
+    "license": "MIT"
+}
